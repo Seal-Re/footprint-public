@@ -5,7 +5,7 @@
 
 ![记录数](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSeal-Re%2Ffootprint-public%2Fmain%2Fstats.json&query=$.records&label=%E8%AE%B0%E5%BD%95%E6%95%B0&color=blue) ![覆盖天数](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSeal-Re%2Ffootprint-public%2Fmain%2Fstats.json&query=$.days&label=%E8%A6%86%E7%9B%96%E5%A4%A9%E6%95%B0&color=blue) ![最近采集](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSeal-Re%2Ffootprint-public%2Fmain%2Fstats.json&query=$.latest_ago&label=%E6%9C%80%E8%BF%91%E9%87%87%E9%9B%86&color=brightgreen) ![当前城市](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSeal-Re%2Ffootprint-public%2Fmain%2Fstats.json&query=$.latest_city&label=%E5%BD%93%E5%89%8D%E5%9F%8E%E5%B8%82&color=brightgreen)
 
-> 设备 `bih-l-57616` · 统计区间 2026-09-29 ~ 2026-09-29 · 共 1 天 · 43 条记录
+> 设备 `bih-l-57616` · 统计区间 2026-09-29 ~ 2026-09-29 · 共 1 天 · 44 条记录
 
 ## 活跃度
 
@@ -19,8 +19,8 @@ GitHub 会根据本仓库的提交记录自动绘制贡献图 —— 每次采�
 
 | 地点 | 时长 | 占比 |
 |---|---|---|
-| 杭州市 1 | 3.6 小时 | 100.0% |
+| 杭州市 1 | 3.7 小时 | 100.0% |
 
 ---
 
-*最后更新：2026-09-29 19:57*
+*最后更新：2026-09-29 20:02*
