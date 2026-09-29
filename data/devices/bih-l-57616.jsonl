@@ -1,1 +1,2 @@
 {"ts": "2026-09-29T16:28:49+08:00", "tz": "中国标准时间", "device": "bih-l-57616", "monotonic_id": 1, "accuracy_m": 85.0, "source": "WiFi", "rejected": null, "city": "杭州市", "geo_method": "api", "trigger": "startup", "grid_m": 250, "lat_m": -478750, "lon_m": 3724000}
+{"ts": "2026-09-29T16:34:25+08:00", "tz": "中国标准时间", "device": "bih-l-57616", "monotonic_id": 2, "accuracy_m": 89.0, "source": "WiFi", "rejected": null, "city": "杭州市", "geo_method": "api", "trigger": "heartbeat", "grid_m": 250, "lat_m": -478750, "lon_m": 3724000}
