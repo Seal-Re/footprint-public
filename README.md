@@ -3,106 +3,24 @@
 记录这台电脑随时间变化的位置、Wi-Fi 与网络出口。
 数据由常驻守护进程采集，每 5 分钟一次。
 
-![记录数](https://img.shields.io/badge/dynamic/json?url=stats.json&query=$.records&label=%E8%AE%B0%E5%BD%95%E6%95%B0&color=blue) ![覆盖天数](https://img.shields.io/badge/dynamic/json?url=stats.json&query=$.days&label=%E8%A6%86%E7%9B%96%E5%A4%A9%E6%95%B0&color=blue) ![最近采集](https://img.shields.io/badge/dynamic/json?url=stats.json&query=$.latest_ago&label=%E6%9C%80%E8%BF%91%E9%87%87%E9%9B%86&color=brightgreen) ![当前城市](https://img.shields.io/badge/dynamic/json?url=stats.json&query=$.latest_city&label=%E5%BD%93%E5%89%8D%E5%9F%8E%E5%B8%82&color=brightgreen)
+![记录数](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSeal-Re%2Ffootprint-public%2Fmain%2Fstats.json&query=$.records&label=%E8%AE%B0%E5%BD%95%E6%95%B0&color=blue) ![覆盖天数](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSeal-Re%2Ffootprint-public%2Fmain%2Fstats.json&query=$.days&label=%E8%A6%86%E7%9B%96%E5%A4%A9%E6%95%B0&color=blue) ![最近采集](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSeal-Re%2Ffootprint-public%2Fmain%2Fstats.json&query=$.latest_ago&label=%E6%9C%80%E8%BF%91%E9%87%87%E9%9B%86&color=brightgreen) ![当前城市](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSeal-Re%2Ffootprint-public%2Fmain%2Fstats.json&query=$.latest_city&label=%E5%BD%93%E5%89%8D%E5%9F%8E%E5%B8%82&color=brightgreen)
 
-> 设备 `bih-l-57616` · 统计区间 2026-09-29 ~ 2026-09-29 · 共 1 天 · 26 条记录
+> 设备 `bih-l-57616` · 统计区间 2026-09-29 ~ 2026-09-29 · 共 1 天 · 43 条记录
+
+## 活跃度
+
+GitHub 会根据本仓库的提交记录自动绘制贡献图 —— 每次采样都会产生一个提交，所以那张图就是这台机器的开机时间分布。
+
+- [贡献图（绿格子）](https://github.com/Seal-Re) — 个人主页，显示所有仓库的提交分布
+- [本仓库的提交活动](https://github.com/Seal-Re/footprint-public/graphs/commit-activity) — 按周统计的提交次数
+- [提交历史](https://github.com/Seal-Re/footprint-public/commits/main) — 每次采样一条，可查具体时间
 
 ## 地点停留
 
 | 地点 | 时长 | 占比 |
 |---|---|---|
-| 杭州市 1 | 2.2 小时 | 100.0% |
-
-## 时间分布
-
-```
-`00`  0.0h
-`01`  0.0h
-`02`  0.0h
-`03`  0.0h
-`04`  0.0h
-`05`  0.0h
-`06`  0.0h
-`07`  0.0h
-`08`  0.0h
-`09`  0.0h
-`10`  0.0h
-`11`  0.0h
-`12`  0.0h
-`13`  0.0h
-`14`  0.0h
-`15`  0.0h
-`16` ███████████████ 0.5h
-`17` ██████████████████████████████ 1.0h
-`18` ██████████████████ 0.6h
-`19`  0.0h
-`20`  0.0h
-`21`  0.0h
-`22`  0.0h
-`23`  0.0h
-```
-
-<details>
-<summary>最近 20 条采集记录</summary>
-
-```
-时间              相对位置(米)          城市      出口归属
-09-29 16:59       -478750,3724000       —         —
-09-29 17:04       -478750,3724000       —         —
-09-29 17:09       -478750,3724000       —         —
-09-29 17:14       -478750,3724000       —         —
-09-29 17:19       -478750,3724000       —         —
-09-29 17:24       -478750,3724000       —         —
-09-29 17:29       -478750,3724000       —         —
-09-29 17:34       -478750,3724000       —         —
-09-29 17:39       -478750,3724000       —         —
-09-29 17:44       -478750,3724000       —         —
-09-29 17:49       -478750,3724000       —         —
-09-29 17:54       -478750,3724000       杭州市       —
-09-29 17:57       -478750,3724000       杭州市       —
-09-29 18:02       -478750,3724000       杭州市       —
-09-29 18:07       -478750,3724000       杭州市       —
-09-29 18:12       -478750,3724000       —         —
-09-29 18:17       -478750,3724000       杭州市       —
-09-29 18:22       -478750,3724000       杭州市       —
-09-29 18:27       -478750,3724000       杭州市       —
-09-29 18:29       -478750,3724000       杭州市       —
-```
-
-</details>
-
-<details>
-<summary>各小时停留明细</summary>
-
-```
-`00`  0.0h
-`01`  0.0h
-`02`  0.0h
-`03`  0.0h
-`04`  0.0h
-`05`  0.0h
-`06`  0.0h
-`07`  0.0h
-`08`  0.0h
-`09`  0.0h
-`10`  0.0h
-`11`  0.0h
-`12`  0.0h
-`13`  0.0h
-`14`  0.0h
-`15`  0.0h
-`16` ███████████████ 0.5h
-`17` ██████████████████████████████ 1.0h
-`18` ██████████████████ 0.6h
-`19`  0.0h
-`20`  0.0h
-`21`  0.0h
-`22`  0.0h
-`23`  0.0h
-```
-
-</details>
+| 杭州市 1 | 3.6 小时 | 100.0% |
 
 ---
 
-*最后更新：2026-09-29 18:33*
+*最后更新：2026-09-29 19:57*

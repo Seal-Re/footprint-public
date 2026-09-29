@@ -1,14 +1,14 @@
 {
- "records": 26,
+ "records": 43,
  "days": 1,
  "cities": 1,
  "places": 1,
  "top_place": "杭州市 1",
- "top_place_hours": 2.2,
- "total_hours": 2.2,
- "latest_ts": "2026-09-29T18:29+08:00",
- "latest_ago": "3 分钟前",
+ "top_place_hours": 3.6,
+ "total_hours": 3.6,
+ "latest_ts": "2026-09-29T19:55+08:00",
+ "latest_ago": "2 分钟前",
  "latest_city": "杭州市",
  "egress_count": 0,
- "last_updated": "2026-09-29 18:33"
+ "last_updated": "2026-09-29 19:57"
 }
