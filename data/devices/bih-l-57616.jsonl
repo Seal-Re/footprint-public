@@ -53,3 +53,4 @@
 {"ts": "2026-09-30T10:03:17+08:00", "tz": "中国标准时间", "device": "bih-l-57616", "monotonic_id": 53, "accuracy_m": 55.0, "source": "WiFi", "rejected": null, "city": "杭州市", "geo_method": "api", "trigger": "heartbeat", "grid_m": 250, "lat_m": -479250, "lon_m": 3724000}
 {"ts": "2026-09-30T10:04:18+08:00", "tz": "中国标准时间", "device": "bih-l-57616", "monotonic_id": 54, "trigger": "startup"}
 {"ts": "2026-09-30T10:08:17+08:00", "tz": "中国标准时间", "device": "bih-l-57616", "monotonic_id": 55, "accuracy_m": 55.0, "source": "WiFi", "rejected": null, "city": "杭州市", "geo_method": "api", "trigger": "heartbeat", "grid_m": 250, "lat_m": -479250, "lon_m": 3724000}
+{"ts": "2026-09-30T10:09:29+08:00", "tz": "中国标准时间", "device": "bih-l-57616", "monotonic_id": 56, "trigger": "heartbeat"}
