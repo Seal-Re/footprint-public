@@ -5,7 +5,7 @@
 
 ![记录数](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSeal-Re%2Ffootprint-public%2Fmain%2Fstats.json&query=$.records&label=%E8%AE%B0%E5%BD%95%E6%95%B0&color=blue) ![运行天数](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSeal-Re%2Ffootprint-public%2Fmain%2Fstats.json&query=$.days&label=%E8%BF%90%E8%A1%8C%E5%A4%A9%E6%95%B0&color=blue) ![最近上报](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSeal-Re%2Ffootprint-public%2Fmain%2Fstats.json&query=$.latest_ago&label=%E6%9C%80%E8%BF%91%E4%B8%8A%E6%8A%A5&color=brightgreen)
 
-> 设备 `bih-l-57616` · 统计区间 2026-09-29 ~ 2026-09-29 · 共 1 天 · 49 次上报
+> 设备 `bih-l-57616` · 统计区间 2026-09-29 ~ 2026-09-30 · 共 2 天 · 54 次上报
 
 ## 使用时间分布
 
@@ -17,4 +17,4 @@ GitHub 会根据本仓库的提交记录自动绘制贡献图 —— 每次上�
 
 ---
 
-*最后更新：2026-09-29 20:29*
+*最后更新：2026-09-30 10:05*
