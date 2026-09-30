@@ -1,9 +1,9 @@
 {
- "records": 49,
- "days": 1,
+ "records": 54,
+ "days": 2,
  "devices": 1,
- "active_hours": 4.0,
- "latest_ts": "2026-09-29T20:25+08:00",
- "latest_ago": "4 分钟前",
- "last_updated": "2026-09-29 20:29"
+ "active_hours": 16.3,
+ "latest_ts": "2026-09-30T10:04+08:00",
+ "latest_ago": "1 分钟前",
+ "last_updated": "2026-09-30 10:05"
 }
