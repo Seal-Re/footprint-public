@@ -10322,3 +10322,5 @@
 {"ts": "2026-11-09T14:50:06+08:00", "tz": "中国标准时间", "device": "bih-l-57616", "monotonic_id": 10012, "trigger": "heartbeat"}
 {"ts": "2026-11-09T14:54:55+08:00", "tz": "中国标准时间", "device": "bih-l-57616", "monotonic_id": 10013, "trigger": "heartbeat"}
 {"ts": "2026-11-09T14:55:07+08:00", "tz": "中国标准时间", "device": "bih-l-57616", "monotonic_id": 10013, "trigger": "heartbeat"}
+{"ts": "2026-11-09T15:00:07+08:00", "tz": "中国标准时间", "device": "bih-l-57616", "monotonic_id": 10014, "trigger": "heartbeat"}
+{"ts": "2026-11-09T14:59:55+08:00", "tz": "中国标准时间", "device": "bih-l-57616", "monotonic_id": 10014, "trigger": "heartbeat"}
